@@ -1,0 +1,8 @@
+prefix=/home/viki/Documents/final_proj/devel
+
+Name: ar_sys
+Description: Description of ar_sys
+Version: 1.0.5
+Cflags: -I/home/viki/Documents/final_proj/src/ar_sys/include
+Libs: -L/home/viki/Documents/final_proj/devel/lib -laruco
+Requires: cv_bridge dynamic_reconfigure geometry_msgs image_transport visualization_msgs roscpp tf

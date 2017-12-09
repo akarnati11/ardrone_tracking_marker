@@ -1,0 +1,40 @@
+FILE(REMOVE_RECURSE
+  "CMakeFiles/opencv_apps_generate_messages_cpp"
+  "/home/viki/Documents/final_proj/devel/include/opencv_apps/RectArray.h"
+  "/home/viki/Documents/final_proj/devel/include/opencv_apps/Size.h"
+  "/home/viki/Documents/final_proj/devel/include/opencv_apps/FlowArrayStamped.h"
+  "/home/viki/Documents/final_proj/devel/include/opencv_apps/Point2D.h"
+  "/home/viki/Documents/final_proj/devel/include/opencv_apps/Point2DArray.h"
+  "/home/viki/Documents/final_proj/devel/include/opencv_apps/FaceArrayStamped.h"
+  "/home/viki/Documents/final_proj/devel/include/opencv_apps/CircleArrayStamped.h"
+  "/home/viki/Documents/final_proj/devel/include/opencv_apps/ContourArray.h"
+  "/home/viki/Documents/final_proj/devel/include/opencv_apps/Rect.h"
+  "/home/viki/Documents/final_proj/devel/include/opencv_apps/Face.h"
+  "/home/viki/Documents/final_proj/devel/include/opencv_apps/MomentArray.h"
+  "/home/viki/Documents/final_proj/devel/include/opencv_apps/ContourArrayStamped.h"
+  "/home/viki/Documents/final_proj/devel/include/opencv_apps/Contour.h"
+  "/home/viki/Documents/final_proj/devel/include/opencv_apps/RectArrayStamped.h"
+  "/home/viki/Documents/final_proj/devel/include/opencv_apps/RotatedRectArray.h"
+  "/home/viki/Documents/final_proj/devel/include/opencv_apps/FlowArray.h"
+  "/home/viki/Documents/final_proj/devel/include/opencv_apps/Flow.h"
+  "/home/viki/Documents/final_proj/devel/include/opencv_apps/LineArray.h"
+  "/home/viki/Documents/final_proj/devel/include/opencv_apps/Point2DArrayStamped.h"
+  "/home/viki/Documents/final_proj/devel/include/opencv_apps/CircleArray.h"
+  "/home/viki/Documents/final_proj/devel/include/opencv_apps/FaceArray.h"
+  "/home/viki/Documents/final_proj/devel/include/opencv_apps/Point2DStamped.h"
+  "/home/viki/Documents/final_proj/devel/include/opencv_apps/Moment.h"
+  "/home/viki/Documents/final_proj/devel/include/opencv_apps/FlowStamped.h"
+  "/home/viki/Documents/final_proj/devel/include/opencv_apps/Circle.h"
+  "/home/viki/Documents/final_proj/devel/include/opencv_apps/RotatedRectArrayStamped.h"
+  "/home/viki/Documents/final_proj/devel/include/opencv_apps/RotatedRect.h"
+  "/home/viki/Documents/final_proj/devel/include/opencv_apps/RotatedRectStamped.h"
+  "/home/viki/Documents/final_proj/devel/include/opencv_apps/MomentArrayStamped.h"
+  "/home/viki/Documents/final_proj/devel/include/opencv_apps/LineArrayStamped.h"
+  "/home/viki/Documents/final_proj/devel/include/opencv_apps/Line.h"
+  "/home/viki/Documents/final_proj/devel/include/opencv_apps/FaceRecognitionTrain.h"
+)
+
+# Per-language clean rules from dependency scanning.
+FOREACH(lang)
+  INCLUDE(CMakeFiles/opencv_apps_generate_messages_cpp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+ENDFOREACH(lang)

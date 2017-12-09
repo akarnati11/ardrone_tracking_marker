@@ -1,0 +1,8 @@
+prefix=/home/viki/Documents/final_proj/devel
+
+Name: opencv_apps
+Description: Description of opencv_apps
+Version: 2.0.0
+Cflags: -I/home/viki/Documents/final_proj/devel/include -I/home/viki/Documents/final_proj/src/opencv_apps/include
+Libs: -L/home/viki/Documents/final_proj/devel/lib -lopencv_apps
+Requires: std_msgs
